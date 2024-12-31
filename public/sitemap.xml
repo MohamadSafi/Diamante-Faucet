@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://www.diamantefaucet.com/</loc>
+        <lastmod>2024-12-31T07:27:00+00:00</lastmod>
+        <image:image>
+            <image:loc>https://www.diamantefaucet.com/diamante-faucet-preview.jpg</image:loc>
+            <image:caption>Diamante Faucet Preview - Get test tokens for the Diamante Blockchain</image:caption>
+            <image:title>Diamante Faucet Preview</image:title>
+        </image:image>
+    </url>
+</urlset>
