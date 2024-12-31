@@ -23,6 +23,12 @@ This is a single-page React application, designed with Diamante's styling guidel
    - Generate a new key pair.
 3. **📥 Receive Test Tokens**: The app processes your request and sends test tokens to the specified wallet or generated address.
 
+## Screenshots 📸
+
+Here’s a sneak peek of the Diamante Faucet in action:
+
+![Diamante Faucet Screenshot](public/diamante-faucet-preview.jpg)
+
 ## Future Improvements 🚧
 
 - 📝 Integrating a transaction history feature.
