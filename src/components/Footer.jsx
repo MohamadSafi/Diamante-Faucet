@@ -24,7 +24,7 @@ export const Footer = () => {
 
             <div className="flex items-center space-x-6 mt-4 md:mt-0">
               <a
-                href="https://x.com/mohammad_safi14"
+                href="https://x.com/ZRealSafi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center text-[#bfe3e9]/70 hover:text-[#1da1f2] transition-colors duration-200"
